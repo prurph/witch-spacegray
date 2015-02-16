@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Alternate Panel Font</key>
+	<string>Helvetica Neue</string>
+	<key>Application Name Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg/CQJD+DYSLzPoNCnx0/AYY=
+	</data>
+	<key>Application Name Shadow</key>
+	<false/>
+	<key>Background Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg3y7AT6Dj7sPPoM32DM+g2ZmZj+G
+	</data>
+	<key>Item Height</key>
+	<real>22</real>
+	<key>Key Badge Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmgy6YeT6Djb2RPoOMvKY+AYY=
+	</data>
+	<key>Maximum Width</key>
+	<real>0.4925055205821991</real>
+	<key>Panel Shadow</key>
+	<true/>
+	<key>Selection Border Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
+	ZgEAhg==
+	</data>
+	<key>Selection Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmgy6YeT6Djb2RPoOMvKY+AYY=
+	</data>
+	<key>Selection Window Name Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg0p4Ez+DBkEzP4PrsvM+AYY=
+	</data>
+	<key>Window Name Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg0p4Ez+DBkEzP4PrsvM+AYY=
+	</data>
+	<key>Window Name Shadow</key>
+	<false/>
+</dict>
+</plist>
